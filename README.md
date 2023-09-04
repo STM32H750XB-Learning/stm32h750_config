@@ -17,6 +17,9 @@ STM32H750分为 Y 版和 V 版，两个版本之间的主要区别可以参考 R
 STM32H750基础外设的配置参考手册，配置内容如下：
 
 - [x] MPU
-
-
+- [x] QuadSPI
+- [x] FMC-SDRAM
+- [x] FMC-NandFlash
+- [ ] SD-MMC
+- [ ] 
 
